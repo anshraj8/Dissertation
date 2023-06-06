@@ -1,0 +1,324 @@
+p,plabel,pplabel
+http://purl.obolibrary.org/obo/UBERON_0000059,large intestine,anus
+http://purl.obolibrary.org/obo/UBERON_0000059,large intestine,distal anal canal
+http://purl.obolibrary.org/obo/UBERON_0000059,large intestine,proximal anal canal
+http://purl.obolibrary.org/obo/UBERON_0000059,large intestine,transitional anal canal
+http://purl.obolibrary.org/obo/UBERON_0000059,large intestine,ileocecal valve
+http://purl.obolibrary.org/obo/UBERON_0000059,large intestine,rectum
+http://purl.obolibrary.org/obo/UBERON_0000059,large intestine,cecum
+http://purl.obolibrary.org/obo/UBERON_0000059,large intestine,appendix
+http://purl.obolibrary.org/obo/UBERON_0000059,large intestine,ascending colon
+http://purl.obolibrary.org/obo/UBERON_0000059,large intestine,transverse colon
+http://purl.obolibrary.org/obo/UBERON_0000059,large intestine,descending colon
+http://purl.obolibrary.org/obo/UBERON_0000059,large intestine,sigmoid colon
+http://purl.obolibrary.org/obo/UBERON_0000059,large intestine,splenic flexure
+http://purl.obolibrary.org/obo/UBERON_0000059,large intestine,hepatic flexure
+http://purl.obolibrary.org/obo/UBERON_0001245,anus,dermis
+http://purl.obolibrary.org/obo/UBERON_0001245,anus,subcutaneous
+http://purl.obolibrary.org/obo/UBERON_0001245,anus,epidermis
+http://purl.obolibrary.org/obo/UBERON_0001245,anus,skin
+http://purl.obolibrary.org/obo/UBERON_0000159,distal anal canal,lymphocyte
+http://purl.obolibrary.org/obo/UBERON_0000159,distal anal canal,mucosa
+http://purl.obolibrary.org/obo/UBERON_0000159,distal anal canal,epithelium
+http://purl.obolibrary.org/obo/UBERON_0000159,distal anal canal,lymphcyte
+http://purl.obolibrary.org/obo/UBERON_0000159,distal anal canal,mucosa
+http://purl.obolibrary.org/obo/UBERON_0000159,distal anal canal,submucosa
+http://purl.obolibrary.org/obo/UBERON_0000159,distal anal canal,submucosa
+http://purl.obolibrary.org/obo/UBERON_0000159,distal anal canal,adventitia
+http://purl.obolibrary.org/obo/UBERON_0000159,distal anal canal,lamina propria
+http://purl.obolibrary.org/obo/UBERON_0000159,distal anal canal,muscularis mucosa
+http://purl.obolibrary.org/obo/UBERON_0000159,distal anal canal,subserosa
+http://purl.obolibrary.org/obo/UBERON_0000159,distal anal canal,muscularis propria
+http://purl.obolibrary.org/obo/UBERON_0000159,distal anal canal,muscularis prorpia
+http://purl.obolibrary.org/obo/UBERON_0000159,proximal anal canal,lymphocyte
+http://purl.obolibrary.org/obo/UBERON_0000159,proximal anal canal,mucosa
+http://purl.obolibrary.org/obo/UBERON_0000159,proximal anal canal,epithelium
+http://purl.obolibrary.org/obo/UBERON_0000159,proximal anal canal,lymphcyte
+http://purl.obolibrary.org/obo/UBERON_0000159,proximal anal canal,mucosa
+http://purl.obolibrary.org/obo/UBERON_0000159,proximal anal canal,submucosa
+http://purl.obolibrary.org/obo/UBERON_0000159,proximal anal canal,submucosa
+http://purl.obolibrary.org/obo/UBERON_0000159,proximal anal canal,adventitia
+http://purl.obolibrary.org/obo/UBERON_0000159,proximal anal canal,lamina propria
+http://purl.obolibrary.org/obo/UBERON_0000159,proximal anal canal,muscularis mucosa
+http://purl.obolibrary.org/obo/UBERON_0000159,proximal anal canal,subserosa
+http://purl.obolibrary.org/obo/UBERON_0000159,proximal anal canal,muscularis propria
+http://purl.obolibrary.org/obo/UBERON_0000159,proximal anal canal,muscularis prorpia
+http://purl.obolibrary.org/obo/UBERON_0000159,transitional anal canal,lymphocyte
+http://purl.obolibrary.org/obo/UBERON_0000159,transitional anal canal,mucosa
+http://purl.obolibrary.org/obo/UBERON_0000159,transitional anal canal,epithelium
+http://purl.obolibrary.org/obo/UBERON_0000159,transitional anal canal,lymphcyte
+http://purl.obolibrary.org/obo/UBERON_0000159,transitional anal canal,mucosa
+http://purl.obolibrary.org/obo/UBERON_0000159,transitional anal canal,submucosa
+http://purl.obolibrary.org/obo/UBERON_0000159,transitional anal canal,submucosa
+http://purl.obolibrary.org/obo/UBERON_0000159,transitional anal canal,adventitia
+http://purl.obolibrary.org/obo/UBERON_0000159,transitional anal canal,lamina propria
+http://purl.obolibrary.org/obo/UBERON_0000159,transitional anal canal,muscularis mucosa
+http://purl.obolibrary.org/obo/UBERON_0000159,transitional anal canal,subserosa
+http://purl.obolibrary.org/obo/UBERON_0000159,transitional anal canal,muscularis propria
+http://purl.obolibrary.org/obo/UBERON_0000159,transitional anal canal,muscularis prorpia
+http://purl.obolibrary.org/obo/UBERON_0000569,ileocecal valve,mucosa
+http://purl.obolibrary.org/obo/UBERON_0000569,ileocecal valve,submucosa
+http://purl.obolibrary.org/obo/UBERON_0000569,ileocecal valve,muscularis mucosa
+http://purl.obolibrary.org/obo/UBERON_0000569,ileocecal valve,subserosa
+http://purl.obolibrary.org/obo/UBERON_0000569,ileocecal valve,muscularis propria
+http://purl.obolibrary.org/obo/UBERON_0000569,ileocecal valve,muscularis prorpia
+http://purl.obolibrary.org/obo/UBERON_0000569,ileocecal valve,serosa
+http://purl.obolibrary.org/obo/UBERON_0001052,rectum,mucosa
+http://purl.obolibrary.org/obo/UBERON_0001052,rectum,mucosa
+http://purl.obolibrary.org/obo/UBERON_0001052,rectum,submucosa
+http://purl.obolibrary.org/obo/UBERON_0001052,rectum,muscularis mucosa
+http://purl.obolibrary.org/obo/UBERON_0001052,rectum,subserosa
+http://purl.obolibrary.org/obo/UBERON_0001052,rectum,muscularis propria
+http://purl.obolibrary.org/obo/UBERON_0001052,rectum,muscularis prorpia
+http://purl.obolibrary.org/obo/UBERON_0001052,rectum,serosa
+http://purl.obolibrary.org/obo/UBERON_0001153,cecum,mucosa
+http://purl.obolibrary.org/obo/UBERON_0001153,cecum,submucosa
+http://purl.obolibrary.org/obo/UBERON_0001153,cecum,muscularis mucosa
+http://purl.obolibrary.org/obo/UBERON_0001153,cecum,subserosa
+http://purl.obolibrary.org/obo/UBERON_0001153,cecum,muscularis propria
+http://purl.obolibrary.org/obo/UBERON_0001153,cecum,muscularis prorpia
+http://purl.obolibrary.org/obo/UBERON_0001153,cecum,serosa
+http://purl.obolibrary.org/obo/UBERON_0001154,appendix,mucosa
+http://purl.obolibrary.org/obo/UBERON_0001154,appendix,submucosa
+http://purl.obolibrary.org/obo/UBERON_0001154,appendix,submucosa
+http://purl.obolibrary.org/obo/UBERON_0001154,appendix,muscularis mucosa
+http://purl.obolibrary.org/obo/UBERON_0001154,appendix,subserosa
+http://purl.obolibrary.org/obo/UBERON_0001154,appendix,muscularis propria
+http://purl.obolibrary.org/obo/UBERON_0001154,appendix,muscularis prorpia
+http://purl.obolibrary.org/obo/UBERON_0001154,appendix,serosa
+http://purl.obolibrary.org/obo/UBERON_0001156,ascending colon,mucosa
+http://purl.obolibrary.org/obo/UBERON_0001156,ascending colon,mucosa
+http://purl.obolibrary.org/obo/UBERON_0001156,ascending colon,submucosa
+http://purl.obolibrary.org/obo/UBERON_0001156,ascending colon,muscularis mucosa
+http://purl.obolibrary.org/obo/UBERON_0001156,ascending colon,subserosa
+http://purl.obolibrary.org/obo/UBERON_0001156,ascending colon,muscularis propria
+http://purl.obolibrary.org/obo/UBERON_0001156,ascending colon,muscularis prorpia
+http://purl.obolibrary.org/obo/UBERON_0001156,ascending colon,free coli
+http://purl.obolibrary.org/obo/UBERON_0001156,ascending colon,mesocolic coli
+http://purl.obolibrary.org/obo/UBERON_0001156,ascending colon,omental coli
+http://purl.obolibrary.org/obo/UBERON_0001156,ascending colon,tenia coli
+http://purl.obolibrary.org/obo/UBERON_0001156,ascending colon,serosa
+http://purl.obolibrary.org/obo/UBERON_0001157,transverse colon,mucosa
+http://purl.obolibrary.org/obo/UBERON_0001157,transverse colon,mucosa
+http://purl.obolibrary.org/obo/UBERON_0001157,transverse colon,submucosa
+http://purl.obolibrary.org/obo/UBERON_0001157,transverse colon,muscularis mucosa
+http://purl.obolibrary.org/obo/UBERON_0001157,transverse colon,subserosa
+http://purl.obolibrary.org/obo/UBERON_0001157,transverse colon,muscularis propria
+http://purl.obolibrary.org/obo/UBERON_0001157,transverse colon,muscularis prorpia
+http://purl.obolibrary.org/obo/UBERON_0001157,transverse colon,free coli
+http://purl.obolibrary.org/obo/UBERON_0001157,transverse colon,mesocolic coli
+http://purl.obolibrary.org/obo/UBERON_0001157,transverse colon,omental coli
+http://purl.obolibrary.org/obo/UBERON_0001157,transverse colon,tenia coli
+http://purl.obolibrary.org/obo/UBERON_0001157,transverse colon,serosa
+http://purl.obolibrary.org/obo/UBERON_0001158,descending colon,mucosa
+http://purl.obolibrary.org/obo/UBERON_0001158,descending colon,mucosa
+http://purl.obolibrary.org/obo/UBERON_0001158,descending colon,submucosa
+http://purl.obolibrary.org/obo/UBERON_0001158,descending colon,muscularis mucosa
+http://purl.obolibrary.org/obo/UBERON_0001158,descending colon,subserosa
+http://purl.obolibrary.org/obo/UBERON_0001158,descending colon,muscularis propria
+http://purl.obolibrary.org/obo/UBERON_0001158,descending colon,muscularis prorpia
+http://purl.obolibrary.org/obo/UBERON_0001158,descending colon,free coli
+http://purl.obolibrary.org/obo/UBERON_0001158,descending colon,mesocolic coli
+http://purl.obolibrary.org/obo/UBERON_0001158,descending colon,omental coli
+http://purl.obolibrary.org/obo/UBERON_0001158,descending colon,tenia coli
+http://purl.obolibrary.org/obo/UBERON_0001158,descending colon,serosa
+http://purl.obolibrary.org/obo/UBERON_0001159,sigmoid colon,mucosa
+http://purl.obolibrary.org/obo/UBERON_0001159,sigmoid colon,mucosa
+http://purl.obolibrary.org/obo/UBERON_0001159,sigmoid colon,submucosa
+http://purl.obolibrary.org/obo/UBERON_0001159,sigmoid colon,muscularis mucosa
+http://purl.obolibrary.org/obo/UBERON_0001159,sigmoid colon,subserosa
+http://purl.obolibrary.org/obo/UBERON_0001159,sigmoid colon,muscularis propria
+http://purl.obolibrary.org/obo/UBERON_0001159,sigmoid colon,muscularis prorpia
+http://purl.obolibrary.org/obo/UBERON_0001159,sigmoid colon,free coli
+http://purl.obolibrary.org/obo/UBERON_0001159,sigmoid colon,mesocolic coli
+http://purl.obolibrary.org/obo/UBERON_0001159,sigmoid colon,omental coli
+http://purl.obolibrary.org/obo/UBERON_0001159,sigmoid colon,tenia coli
+http://purl.obolibrary.org/obo/UBERON_0001159,sigmoid colon,serosa
+http://purl.obolibrary.org/obo/UBERON_0022276,splenic flexure,mucosa
+http://purl.obolibrary.org/obo/UBERON_0022276,splenic flexure,mucosa
+http://purl.obolibrary.org/obo/UBERON_0022276,splenic flexure,submucosa
+http://purl.obolibrary.org/obo/UBERON_0022276,splenic flexure,muscularis mucosa
+http://purl.obolibrary.org/obo/UBERON_0022276,splenic flexure,subserosa
+http://purl.obolibrary.org/obo/UBERON_0022276,splenic flexure,muscularis propria
+http://purl.obolibrary.org/obo/UBERON_0022276,splenic flexure,muscularis prorpia
+http://purl.obolibrary.org/obo/UBERON_0022276,splenic flexure,free coli
+http://purl.obolibrary.org/obo/UBERON_0022276,splenic flexure,mesocolic coli
+http://purl.obolibrary.org/obo/UBERON_0022276,splenic flexure,omental coli
+http://purl.obolibrary.org/obo/UBERON_0022276,splenic flexure,tenia coli
+http://purl.obolibrary.org/obo/UBERON_0022276,splenic flexure,serosa
+http://purl.obolibrary.org/obo/UBERON_0022277,hepatic flexure,mucosa
+http://purl.obolibrary.org/obo/UBERON_0022277,hepatic flexure,mucosa
+http://purl.obolibrary.org/obo/UBERON_0022277,hepatic flexure,submucosa
+http://purl.obolibrary.org/obo/UBERON_0022277,hepatic flexure,muscularis mucosa
+http://purl.obolibrary.org/obo/UBERON_0022277,hepatic flexure,subserosa
+http://purl.obolibrary.org/obo/UBERON_0022277,hepatic flexure,muscularis propria
+http://purl.obolibrary.org/obo/UBERON_0022277,hepatic flexure,muscularis prorpia
+http://purl.obolibrary.org/obo/UBERON_0022277,hepatic flexure,free coli
+http://purl.obolibrary.org/obo/UBERON_0022277,hepatic flexure,mesocolic coli
+http://purl.obolibrary.org/obo/UBERON_0022277,hepatic flexure,omental coli
+http://purl.obolibrary.org/obo/UBERON_0022277,hepatic flexure,tenia coli
+http://purl.obolibrary.org/obo/UBERON_0022277,hepatic flexure,serosa
+http://purl.obolibrary.org/obo/UBERON_0002067,dermis,apocrine gland
+http://purl.obolibrary.org/obo/UBERON_0002067,dermis,apocrine glands
+http://purl.obolibrary.org/obo/UBERON_0002067,dermis,dermal skin-associated lymphoid tissue
+http://purl.obolibrary.org/obo/UBERON_0002067,dermis,subcutaneous skin-associated lymphoid tissue
+http://purl.obolibrary.org/obo/UBERON_0002067,dermis,connective tissue
+http://purl.obolibrary.org/obo/UBERON_0002067,dermis,fibroconnective tissue
+http://purl.obolibrary.org/obo/UBERON_0002067,dermis,interlobular connective tissue
+http://purl.obolibrary.org/obo/UBERON_0002067,dermis,blood vessels
+http://purl.obolibrary.org/obo/UBERON_0002067,dermis,sebaceous gland
+http://purl.obolibrary.org/obo/UBERON_0002067,dermis,sebaceous glands
+http://purl.obolibrary.org/obo/UBERON_0002067,dermis,hair follicle
+http://purl.obolibrary.org/obo/UBERON_0002067,dermis,hair follicles
+http://purl.obolibrary.org/obo/UBERON_0002067,dermis,vessel
+http://purl.obolibrary.org/obo/UBERON_0002067,dermis,eccrine (sweat) gland
+http://purl.obolibrary.org/obo/UBERON_0002067,dermis,eccrine (sweat) glands
+http://purl.obolibrary.org/obo/UBERON_0002067,dermis,nerve
+http://purl.obolibrary.org/obo/UBERON_0002067,dermis,nerve
+http://purl.obolibrary.org/obo/UBERON_0002067,dermis,vessel
+http://purl.obolibrary.org/obo/UBERON_0002190,subcutaneous,dermal skin-associated lymphoid tissue
+http://purl.obolibrary.org/obo/UBERON_0002190,subcutaneous,subcutaneous skin-associated lymphoid tissue
+http://purl.obolibrary.org/obo/UBERON_0002190,subcutaneous,connective tissue
+http://purl.obolibrary.org/obo/UBERON_0002190,subcutaneous,fibroconnective tissue
+http://purl.obolibrary.org/obo/UBERON_0002190,subcutaneous,interlobular connective tissue
+http://purl.obolibrary.org/obo/UBERON_0002190,subcutaneous,external anal sphincter
+http://purl.obolibrary.org/obo/UBERON_0002190,subcutaneous,vessel
+http://purl.obolibrary.org/obo/UBERON_0002190,subcutaneous,nerve
+http://purl.obolibrary.org/obo/UBERON_0002190,subcutaneous,vessel
+http://purl.obolibrary.org/obo/UBERON_0001003,epidermis,stratum basale (sb)
+http://purl.obolibrary.org/obo/UBERON_0001003,epidermis,stratum spinosum (ss)
+http://purl.obolibrary.org/obo/UBERON_0001003,epidermis,stratum granulosum (sg)
+http://purl.obolibrary.org/obo/UBERON_0001003,epidermis,stratum corneum (sc)
+http://purl.obolibrary.org/obo/UBERON_0001003,epidermis,nail plate
+http://purl.obolibrary.org/obo/UBERON_0001003,skin,stratum basale (sb)
+http://purl.obolibrary.org/obo/UBERON_0001003,skin,stratum spinosum (ss)
+http://purl.obolibrary.org/obo/UBERON_0001003,skin,stratum granulosum (sg)
+http://purl.obolibrary.org/obo/UBERON_0001003,skin,stratum corneum (sc)
+http://purl.obolibrary.org/obo/UBERON_0001003,skin,nail plate
+http://purl.obolibrary.org/obo/UBERON_0000397,lymphocyte,lymphocyte
+http://purl.obolibrary.org/obo/UBERON_0000397,lymphocyte,mucosa
+http://purl.obolibrary.org/obo/UBERON_0000397,lymphocyte,epithelium
+http://purl.obolibrary.org/obo/UBERON_0000397,lymphocyte,lymphcyte
+http://purl.obolibrary.org/obo/UBERON_0000397,lymphocyte,crypt
+http://purl.obolibrary.org/obo/UBERON_0000397,mucosa,lymphocyte
+http://purl.obolibrary.org/obo/UBERON_0000397,mucosa,mucosa
+http://purl.obolibrary.org/obo/UBERON_0000397,mucosa,epithelium
+http://purl.obolibrary.org/obo/UBERON_0000397,mucosa,lymphcyte
+http://purl.obolibrary.org/obo/UBERON_0000397,mucosa,crypt
+http://purl.obolibrary.org/obo/UBERON_0000397,epithelium,lymphocyte
+http://purl.obolibrary.org/obo/UBERON_0000397,epithelium,mucosa
+http://purl.obolibrary.org/obo/UBERON_0000397,epithelium,epithelium
+http://purl.obolibrary.org/obo/UBERON_0000397,epithelium,lymphcyte
+http://purl.obolibrary.org/obo/UBERON_0000397,epithelium,crypt
+http://purl.obolibrary.org/obo/UBERON_0000397,lymphcyte,lymphocyte
+http://purl.obolibrary.org/obo/UBERON_0000397,lymphcyte,mucosa
+http://purl.obolibrary.org/obo/UBERON_0000397,lymphcyte,epithelium
+http://purl.obolibrary.org/obo/UBERON_0000397,lymphcyte,lymphcyte
+http://purl.obolibrary.org/obo/UBERON_0000397,lymphcyte,crypt
+http://purl.obolibrary.org/obo/UBERON_0003342,mucosa,lymphocyte
+http://purl.obolibrary.org/obo/UBERON_0003342,mucosa,mucosa
+http://purl.obolibrary.org/obo/UBERON_0003342,mucosa,epithelium
+http://purl.obolibrary.org/obo/UBERON_0003342,mucosa,lymphcyte
+http://purl.obolibrary.org/obo/UBERON_0003342,mucosa,gut associated lymphoid tissue (galt) /lamina propria
+http://purl.obolibrary.org/obo/UBERON_0003342,mucosa,gut associated lymphoid tissue (galt)/ lamina propria
+http://purl.obolibrary.org/obo/UBERON_0003342,mucosa,gut associated lymphoid tissue (galt)/isolated lymphoid follicles (ilf)
+http://purl.obolibrary.org/obo/UBERON_0003342,mucosa,gut associated lymphoid tissue (galt)/lamina propria
+http://purl.obolibrary.org/obo/UBERON_0003342,mucosa,crypt
+http://purl.obolibrary.org/obo/UBERON_0003342,mucosa,lamina propria
+http://purl.obolibrary.org/obo/UBERON_0003342,mucosa,epithelium
+http://purl.obolibrary.org/obo/UBERON_0003342,mucosa,epithelium
+http://purl.obolibrary.org/obo/UBERON_0003329,submucosa,gut associated lymphoid tissue (galt) /lamina propria
+http://purl.obolibrary.org/obo/UBERON_0003329,submucosa,gut associated lymphoid tissue (galt)/ lamina propria
+http://purl.obolibrary.org/obo/UBERON_0003329,submucosa,gut associated lymphoid tissue (galt)/isolated lymphoid follicles (ilf)
+http://purl.obolibrary.org/obo/UBERON_0003329,submucosa,gut associated lymphoid tissue (galt)/lamina propria
+http://purl.obolibrary.org/obo/UBERON_0003329,submucosa,submucosa
+http://purl.obolibrary.org/obo/UBERON_0003329,submucosa,anal gland
+http://purl.obolibrary.org/obo/UBERON_0003329,submucosa,intermediate layer
+http://purl.obolibrary.org/obo/UBERON_0003329,submucosa,submucosal plexus of henle
+http://purl.obolibrary.org/obo/UBERON_0003329,submucosa,submucosal plexus of meissner
+http://purl.obolibrary.org/obo/UBERON_0003331,submucosa,gut associated lymphoid tissue (galt) /lamina propria
+http://purl.obolibrary.org/obo/UBERON_0003331,submucosa,gut associated lymphoid tissue (galt)/ lamina propria
+http://purl.obolibrary.org/obo/UBERON_0003331,submucosa,gut associated lymphoid tissue (galt)/isolated lymphoid follicles (ilf)
+http://purl.obolibrary.org/obo/UBERON_0003331,submucosa,gut associated lymphoid tissue (galt)/lamina propria
+http://purl.obolibrary.org/obo/UBERON_0003331,submucosa,submucosa
+http://purl.obolibrary.org/obo/UBERON_0003331,submucosa,intermediate layer
+http://purl.obolibrary.org/obo/UBERON_0003331,submucosa,submucosal plexus of henle
+http://purl.obolibrary.org/obo/UBERON_0003331,submucosa,submucosal plexus of meissner
+http://purl.obolibrary.org/obo/UBERON_0005742,adventitia,adventitia
+http://purl.obolibrary.org/obo/UBERON_0007177,lamina propria,lamina propria
+http://purl.obolibrary.org/obo/UBERON_0007178,muscularis mucosa,muscularis mucosa
+http://purl.obolibrary.org/obo/UBERON_0012375,subserosa,subserosa
+http://purl.obolibrary.org/obo/UBERON_0012489,muscularis propria,myenteric plexus of auerbach
+http://purl.obolibrary.org/obo/UBERON_0012489,muscularis propria,circular muscle layer
+http://purl.obolibrary.org/obo/UBERON_0012489,muscularis propria,longitudinal muscle layer
+http://purl.obolibrary.org/obo/UBERON_0012489,muscularis prorpia,myenteric plexus of auerbach
+http://purl.obolibrary.org/obo/UBERON_0012489,muscularis prorpia,circular muscle layer
+http://purl.obolibrary.org/obo/UBERON_0012489,muscularis prorpia,longitudinal muscle layer
+http://purl.obolibrary.org/obo/UBERON_0000317,mucosa,lymphocyte
+http://purl.obolibrary.org/obo/UBERON_0000317,mucosa,mucosa
+http://purl.obolibrary.org/obo/UBERON_0000317,mucosa,epithelium
+http://purl.obolibrary.org/obo/UBERON_0000317,mucosa,lymphcyte
+http://purl.obolibrary.org/obo/UBERON_0000317,mucosa,gut associated lymphoid tissue (galt) /lamina propria
+http://purl.obolibrary.org/obo/UBERON_0000317,mucosa,gut associated lymphoid tissue (galt)/ lamina propria
+http://purl.obolibrary.org/obo/UBERON_0000317,mucosa,gut associated lymphoid tissue (galt)/isolated lymphoid follicles (ilf)
+http://purl.obolibrary.org/obo/UBERON_0000317,mucosa,gut associated lymphoid tissue (galt)/lamina propria
+http://purl.obolibrary.org/obo/UBERON_0000317,mucosa,crypt
+http://purl.obolibrary.org/obo/UBERON_0000317,mucosa,lamina propria
+http://purl.obolibrary.org/obo/UBERON_0000317,mucosa,epithelium
+http://purl.obolibrary.org/obo/UBERON_0003335,serosa,serosa
+http://purl.obolibrary.org/obo/UBERON_0004989,mucosa,lymphocyte
+http://purl.obolibrary.org/obo/UBERON_0004989,mucosa,mucosa
+http://purl.obolibrary.org/obo/UBERON_0004989,mucosa,epithelium
+http://purl.obolibrary.org/obo/UBERON_0004989,mucosa,lymphcyte
+http://purl.obolibrary.org/obo/UBERON_0004989,mucosa,gut associated lymphoid tissue (galt) /lamina propria
+http://purl.obolibrary.org/obo/UBERON_0004989,mucosa,gut associated lymphoid tissue (galt)/ lamina propria
+http://purl.obolibrary.org/obo/UBERON_0004989,mucosa,gut associated lymphoid tissue (galt)/isolated lymphoid follicles (ilf)
+http://purl.obolibrary.org/obo/UBERON_0004989,mucosa,gut associated lymphoid tissue (galt)/lamina propria
+http://purl.obolibrary.org/obo/UBERON_0004989,mucosa,crypt
+http://purl.obolibrary.org/obo/UBERON_0004989,mucosa,lamina propria
+http://purl.obolibrary.org/obo/UBERON_0004989,mucosa,epithelium
+http://purl.obolibrary.org/obo/UBERON_0000314,mucosa,lymphocyte
+http://purl.obolibrary.org/obo/UBERON_0000314,mucosa,mucosa
+http://purl.obolibrary.org/obo/UBERON_0000314,mucosa,epithelium
+http://purl.obolibrary.org/obo/UBERON_0000314,mucosa,lymphcyte
+http://purl.obolibrary.org/obo/UBERON_0000314,mucosa,gut associated lymphoid tissue (galt) /lamina propria
+http://purl.obolibrary.org/obo/UBERON_0000314,mucosa,gut associated lymphoid tissue (galt)/ lamina propria
+http://purl.obolibrary.org/obo/UBERON_0000314,mucosa,gut associated lymphoid tissue (galt)/isolated lymphoid follicles (ilf)
+http://purl.obolibrary.org/obo/UBERON_0000314,mucosa,gut associated lymphoid tissue (galt)/lamina propria
+http://purl.obolibrary.org/obo/UBERON_0000314,mucosa,crypt
+http://purl.obolibrary.org/obo/UBERON_0000314,mucosa,lamina propria
+http://purl.obolibrary.org/obo/UBERON_0000314,mucosa,epithelium
+http://purl.obolibrary.org/obo/UBERON_0000314,mucosa,epithelium
+http://purl.obolibrary.org/obo/UBERON_0004927,submucosa,gut associated lymphoid tissue (galt) /lamina propria
+http://purl.obolibrary.org/obo/UBERON_0004927,submucosa,gut associated lymphoid tissue (galt)/ lamina propria
+http://purl.obolibrary.org/obo/UBERON_0004927,submucosa,gut associated lymphoid tissue (galt)/isolated lymphoid follicles (ilf)
+http://purl.obolibrary.org/obo/UBERON_0004927,submucosa,gut associated lymphoid tissue (galt)/lamina propria
+http://purl.obolibrary.org/obo/UBERON_0004927,submucosa,submucosa
+http://purl.obolibrary.org/obo/UBERON_0004927,submucosa,intermediate layer
+http://purl.obolibrary.org/obo/UBERON_0004927,submucosa,submucosal plexus of henle
+http://purl.obolibrary.org/obo/UBERON_0004927,submucosa,submucosal plexus of meissner
+http://purl.obolibrary.org/obo/UBERON_0004928,submucosa,gut associated lymphoid tissue (galt) /lamina propria
+http://purl.obolibrary.org/obo/UBERON_0004928,submucosa,gut associated lymphoid tissue (galt)/ lamina propria
+http://purl.obolibrary.org/obo/UBERON_0004928,submucosa,gut associated lymphoid tissue (galt)/isolated lymphoid follicles (ilf)
+http://purl.obolibrary.org/obo/UBERON_0004928,submucosa,gut associated lymphoid tissue (galt)/lamina propria
+http://purl.obolibrary.org/obo/UBERON_0004928,submucosa,submucosa
+http://purl.obolibrary.org/obo/UBERON_0004928,submucosa,intermediate layer
+http://purl.obolibrary.org/obo/UBERON_0004928,submucosa,submucosal plexus of henle
+http://purl.obolibrary.org/obo/UBERON_0004928,submucosa,submucosal plexus of meissner
+http://purl.obolibrary.org/obo/UBERON_0012498,serosa,serosa
+http://purl.obolibrary.org/obo/UBERON_0012419,free coli,free coli
+http://purl.obolibrary.org/obo/UBERON_0012419,free coli,mesocolic coli
+http://purl.obolibrary.org/obo/UBERON_0012419,free coli,omental coli
+http://purl.obolibrary.org/obo/UBERON_0012419,free coli,tenia coli
+http://purl.obolibrary.org/obo/UBERON_0012419,mesocolic coli,free coli
+http://purl.obolibrary.org/obo/UBERON_0012419,mesocolic coli,mesocolic coli
+http://purl.obolibrary.org/obo/UBERON_0012419,mesocolic coli,omental coli
+http://purl.obolibrary.org/obo/UBERON_0012419,mesocolic coli,tenia coli
+http://purl.obolibrary.org/obo/UBERON_0012419,omental coli,free coli
+http://purl.obolibrary.org/obo/UBERON_0012419,omental coli,mesocolic coli
+http://purl.obolibrary.org/obo/UBERON_0012419,omental coli,omental coli
+http://purl.obolibrary.org/obo/UBERON_0012419,omental coli,tenia coli
+http://purl.obolibrary.org/obo/UBERON_0012419,tenia coli,free coli
+http://purl.obolibrary.org/obo/UBERON_0012419,tenia coli,mesocolic coli
+http://purl.obolibrary.org/obo/UBERON_0012419,tenia coli,omental coli
+http://purl.obolibrary.org/obo/UBERON_0012419,tenia coli,tenia coli
