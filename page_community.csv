@@ -1,0 +1,241 @@
+﻿NodeId,PageRank,NeighborId,CommunityId
+"""anus""",3.0442500000000003,"""large intestine""",0
+"""distal anal canal""",0.49739439066914554,"""large intestine""",0
+"""proximal anal canal""",0.49739439066914554,"""large intestine""",0
+"""transitional anal canal""",0.49739439066914554,"""large intestine""",0
+"""ileocecal valve""",0.31675429146066847,"""large intestine""",0
+"""rectum""",0.31675429146066847,"""large intestine""",0
+"""cecum""",0.31675429146066847,"""large intestine""",0
+"""appendix""",0.31675429146066847,"""large intestine""",0
+"""ascending colon""",0.3940269974161506,"""large intestine""",0
+"""transverse colon""",0.3940269974161506,"""large intestine""",0
+"""descending colon""",0.3940269974161506,"""large intestine""",0
+"""sigmoid colon""",0.3940269974161506,"""large intestine""",0
+"""splenic flexure""",0.3940269974161506,"""large intestine""",0
+"""hepatic flexure""",0.3940269974161506,"""large intestine""",0
+"""dermis""",1.74375,"""anus""",0
+"""subcutaneous""",0.7237500000000001,"""anus""",0
+"""epidermis""",0.46875000000000006,"""anus""",0
+"""skin""",0.46875000000000006,"""anus""",0
+"""lymphocyte""",0.33490920167426974,"""epithelium""",0
+"""lymphocyte""",0.33490920167426974,"""lymphcyte""",0
+"""lymphocyte""",0.33490920167426974,"""mucosa""",0
+"""lymphocyte""",0.33490920167426974,"""lymphocyte""",0
+"""lymphocyte""",0.33490920167426974,"""transitional anal canal""",0
+"""lymphocyte""",0.33490920167426974,"""proximal anal canal""",0
+"""lymphocyte""",0.33490920167426974,"""distal anal canal""",0
+"""mucosa""",0.6206320895971722,"""mucosa""",0
+"""mucosa""",0.6206320895971722,"""descending colon""",0
+"""mucosa""",0.6206320895971722,"""rectum""",0
+"""mucosa""",0.6206320895971722,"""lymphcyte""",0
+"""mucosa""",0.6206320895971722,"""transverse colon""",0
+"""mucosa""",0.6206320895971722,"""sigmoid colon""",0
+"""mucosa""",0.6206320895971722,"""epithelium""",0
+"""mucosa""",0.6206320895971722,"""ascending colon""",0
+"""mucosa""",0.6206320895971722,"""splenic flexure""",0
+"""mucosa""",0.6206320895971722,"""ileocecal valve""",0
+"""mucosa""",0.6206320895971722,"""cecum""",0
+"""mucosa""",0.6206320895971722,"""lymphocyte""",0
+"""mucosa""",0.6206320895971722,"""hepatic flexure""",0
+"""mucosa""",0.6206320895971722,"""appendix""",0
+"""mucosa""",0.6206320895971722,"""transitional anal canal""",0
+"""mucosa""",0.6206320895971722,"""proximal anal canal""",0
+"""mucosa""",0.6206320895971722,"""distal anal canal""",0
+"""epithelium""",0.33490920167426974,"""lymphcyte""",0
+"""epithelium""",0.33490920167426974,"""mucosa""",0
+"""epithelium""",0.33490920167426974,"""epithelium""",0
+"""epithelium""",0.33490920167426974,"""transitional anal canal""",0
+"""epithelium""",0.33490920167426974,"""lymphocyte""",0
+"""epithelium""",0.33490920167426974,"""proximal anal canal""",0
+"""epithelium""",0.33490920167426974,"""distal anal canal""",0
+"""lymphcyte""",0.33490920167426974,"""mucosa""",0
+"""lymphcyte""",0.33490920167426974,"""epithelium""",0
+"""lymphcyte""",0.33490920167426974,"""lymphocyte""",0
+"""lymphcyte""",0.33490920167426974,"""proximal anal canal""",0
+"""lymphcyte""",0.33490920167426974,"""transitional anal canal""",0
+"""lymphcyte""",0.33490920167426974,"""lymphcyte""",0
+"""lymphcyte""",0.33490920167426974,"""distal anal canal""",0
+"""submucosa""",0.9741444841856775,"""appendix""",0
+"""submucosa""",0.9741444841856775,"""ileocecal valve""",0
+"""submucosa""",0.9741444841856775,"""descending colon""",0
+"""submucosa""",0.9741444841856775,"""proximal anal canal""",0
+"""submucosa""",0.9741444841856775,"""cecum""",0
+"""submucosa""",0.9741444841856775,"""rectum""",0
+"""submucosa""",0.9741444841856775,"""hepatic flexure""",0
+"""submucosa""",0.9741444841856775,"""splenic flexure""",0
+"""submucosa""",0.9741444841856775,"""transverse colon""",0
+"""submucosa""",0.9741444841856775,"""submucosa""",0
+"""submucosa""",0.9741444841856775,"""ascending colon""",0
+"""submucosa""",0.9741444841856775,"""transitional anal canal""",0
+"""submucosa""",0.9741444841856775,"""sigmoid colon""",0
+"""submucosa""",0.9741444841856775,"""distal anal canal""",0
+"""adventitia""",0.1904761828766213,"""adventitia""",0
+"""adventitia""",0.1904761828766213,"""transitional anal canal""",0
+"""adventitia""",0.1904761828766213,"""proximal anal canal""",0
+"""adventitia""",0.1904761828766213,"""distal anal canal""",0
+"""lamina propria""",0.18072288792290261,"""proximal anal canal""",0
+"""lamina propria""",0.18072288792290261,"""lamina propria""",0
+"""lamina propria""",0.18072288792290261,"""transitional anal canal""",0
+"""lamina propria""",0.18072288792290261,"""mucosa""",0
+"""lamina propria""",0.18072288792290261,"""distal anal canal""",0
+"""muscularis mucosa""",0.15969581700483723,"""appendix""",0
+"""muscularis mucosa""",0.15969581700483723,"""ileocecal valve""",0
+"""muscularis mucosa""",0.15969581700483723,"""cecum""",0
+"""muscularis mucosa""",0.15969581700483723,"""muscularis mucosa""",0
+"""muscularis mucosa""",0.15969581700483723,"""transitional anal canal""",0
+"""muscularis mucosa""",0.15969581700483723,"""transverse colon""",0
+"""muscularis mucosa""",0.15969581700483723,"""sigmoid colon""",0
+"""muscularis mucosa""",0.15969581700483723,"""rectum""",0
+"""muscularis mucosa""",0.15969581700483723,"""descending colon""",0
+"""muscularis mucosa""",0.15969581700483723,"""splenic flexure""",0
+"""muscularis mucosa""",0.15969581700483723,"""proximal anal canal""",0
+"""muscularis mucosa""",0.15969581700483723,"""ascending colon""",0
+"""muscularis mucosa""",0.15969581700483723,"""hepatic flexure""",0
+"""muscularis mucosa""",0.15969581700483723,"""distal anal canal""",0
+"""subserosa""",0.15969581700483723,"""sigmoid colon""",0
+"""subserosa""",0.15969581700483723,"""descending colon""",0
+"""subserosa""",0.15969581700483723,"""ileocecal valve""",0
+"""subserosa""",0.15969581700483723,"""hepatic flexure""",0
+"""subserosa""",0.15969581700483723,"""cecum""",0
+"""subserosa""",0.15969581700483723,"""rectum""",0
+"""subserosa""",0.15969581700483723,"""proximal anal canal""",0
+"""subserosa""",0.15969581700483723,"""transverse colon""",0
+"""subserosa""",0.15969581700483723,"""splenic flexure""",0
+"""subserosa""",0.15969581700483723,"""appendix""",0
+"""subserosa""",0.15969581700483723,"""transitional anal canal""",0
+"""subserosa""",0.15969581700483723,"""subserosa""",0
+"""subserosa""",0.15969581700483723,"""ascending colon""",0
+"""subserosa""",0.15969581700483723,"""distal anal canal""",0
+"""muscularis propria""",0.34125000000000005,"""cecum""",0
+"""muscularis propria""",0.34125000000000005,"""rectum""",0
+"""muscularis propria""",0.34125000000000005,"""transitional anal canal""",0
+"""muscularis propria""",0.34125000000000005,"""appendix""",0
+"""muscularis propria""",0.34125000000000005,"""descending colon""",0
+"""muscularis propria""",0.34125000000000005,"""ascending colon""",0
+"""muscularis propria""",0.34125000000000005,"""splenic flexure""",0
+"""muscularis propria""",0.34125000000000005,"""transverse colon""",0
+"""muscularis propria""",0.34125000000000005,"""hepatic flexure""",0
+"""muscularis propria""",0.34125000000000005,"""sigmoid colon""",0
+"""muscularis propria""",0.34125000000000005,"""ileocecal valve""",0
+"""muscularis propria""",0.34125000000000005,"""proximal anal canal""",0
+"""muscularis propria""",0.34125000000000005,"""distal anal canal""",0
+"""muscularis prorpia""",0.34125000000000005,"""ascending colon""",0
+"""muscularis prorpia""",0.34125000000000005,"""transverse colon""",0
+"""muscularis prorpia""",0.34125000000000005,"""ileocecal valve""",0
+"""muscularis prorpia""",0.34125000000000005,"""transitional anal canal""",0
+"""muscularis prorpia""",0.34125000000000005,"""cecum""",0
+"""muscularis prorpia""",0.34125000000000005,"""descending colon""",0
+"""muscularis prorpia""",0.34125000000000005,"""appendix""",0
+"""muscularis prorpia""",0.34125000000000005,"""hepatic flexure""",0
+"""muscularis prorpia""",0.34125000000000005,"""proximal anal canal""",0
+"""muscularis prorpia""",0.34125000000000005,"""sigmoid colon""",0
+"""muscularis prorpia""",0.34125000000000005,"""rectum""",0
+"""muscularis prorpia""",0.34125000000000005,"""splenic flexure""",0
+"""muscularis prorpia""",0.34125000000000005,"""distal anal canal""",0
+"""serosa""",0.1625615736804324,"""appendix""",0
+"""serosa""",0.1625615736804324,"""transverse colon""",0
+"""serosa""",0.1625615736804324,"""ileocecal valve""",0
+"""serosa""",0.1625615736804324,"""descending colon""",0
+"""serosa""",0.1625615736804324,"""hepatic flexure""",0
+"""serosa""",0.1625615736804324,"""cecum""",0
+"""serosa""",0.1625615736804324,"""sigmoid colon""",0
+"""serosa""",0.1625615736804324,"""rectum""",0
+"""serosa""",0.1625615736804324,"""ascending colon""",0
+"""serosa""",0.1625615736804324,"""splenic flexure""",0
+"""serosa""",0.1625615736804324,"""serosa""",0
+"""free coli""",0.22727270595548213,"""hepatic flexure""",0
+"""free coli""",0.22727270595548213,"""splenic flexure""",0
+"""free coli""",0.22727270595548213,"""ascending colon""",0
+"""free coli""",0.22727270595548213,"""sigmoid colon""",0
+"""free coli""",0.22727270595548213,"""free coli""",0
+"""free coli""",0.22727270595548213,"""omental coli""",0
+"""free coli""",0.22727270595548213,"""descending colon""",0
+"""free coli""",0.22727270595548213,"""mesocolic coli""",0
+"""free coli""",0.22727270595548213,"""tenia coli""",0
+"""free coli""",0.22727270595548213,"""transverse colon""",0
+"""mesocolic coli""",0.22727270595548213,"""descending colon""",0
+"""mesocolic coli""",0.22727270595548213,"""mesocolic coli""",0
+"""mesocolic coli""",0.22727270595548213,"""transverse colon""",0
+"""mesocolic coli""",0.22727270595548213,"""hepatic flexure""",0
+"""mesocolic coli""",0.22727270595548213,"""free coli""",0
+"""mesocolic coli""",0.22727270595548213,"""tenia coli""",0
+"""mesocolic coli""",0.22727270595548213,"""ascending colon""",0
+"""mesocolic coli""",0.22727270595548213,"""splenic flexure""",0
+"""mesocolic coli""",0.22727270595548213,"""omental coli""",0
+"""mesocolic coli""",0.22727270595548213,"""sigmoid colon""",0
+"""omental coli""",0.22727270595548213,"""omental coli""",0
+"""omental coli""",0.22727270595548213,"""transverse colon""",0
+"""omental coli""",0.22727270595548213,"""tenia coli""",0
+"""omental coli""",0.22727270595548213,"""ascending colon""",0
+"""omental coli""",0.22727270595548213,"""free coli""",0
+"""omental coli""",0.22727270595548213,"""descending colon""",0
+"""omental coli""",0.22727270595548213,"""sigmoid colon""",0
+"""omental coli""",0.22727270595548213,"""splenic flexure""",0
+"""omental coli""",0.22727270595548213,"""hepatic flexure""",0
+"""omental coli""",0.22727270595548213,"""mesocolic coli""",0
+"""tenia coli""",0.22727270595548213,"""sigmoid colon""",0
+"""tenia coli""",0.22727270595548213,"""descending colon""",0
+"""tenia coli""",0.22727270595548213,"""hepatic flexure""",0
+"""tenia coli""",0.22727270595548213,"""omental coli""",0
+"""tenia coli""",0.22727270595548213,"""free coli""",0
+"""tenia coli""",0.22727270595548213,"""mesocolic coli""",0
+"""tenia coli""",0.22727270595548213,"""splenic flexure""",0
+"""tenia coli""",0.22727270595548213,"""tenia coli""",0
+"""tenia coli""",0.22727270595548213,"""transverse colon""",0
+"""tenia coli""",0.22727270595548213,"""ascending colon""",0
+"""apocrine gland""",0.15000000000000002,"""dermis""",0
+"""apocrine glands""",0.15000000000000002,"""dermis""",0
+"""dermal skin-associated lymphoid tissue""",0.15000000000000002,"""subcutaneous""",0
+"""dermal skin-associated lymphoid tissue""",0.15000000000000002,"""dermis""",0
+"""subcutaneous skin-associated lymphoid tissue""",0.15000000000000002,"""subcutaneous""",0
+"""subcutaneous skin-associated lymphoid tissue""",0.15000000000000002,"""dermis""",0
+"""connective tissue""",0.15000000000000002,"""subcutaneous""",0
+"""connective tissue""",0.15000000000000002,"""dermis""",0
+"""fibroconnective tissue""",0.15000000000000002,"""subcutaneous""",0
+"""fibroconnective tissue""",0.15000000000000002,"""dermis""",0
+"""interlobular connective tissue""",0.15000000000000002,"""subcutaneous""",0
+"""interlobular connective tissue""",0.15000000000000002,"""dermis""",0
+"""blood vessels""",0.15000000000000002,"""dermis""",0
+"""sebaceous gland""",0.15000000000000002,"""dermis""",0
+"""sebaceous glands""",0.15000000000000002,"""dermis""",0
+"""hair follicle""",0.15000000000000002,"""dermis""",0
+"""hair follicles""",0.15000000000000002,"""dermis""",0
+"""vessel""",0.15000000000000002,"""subcutaneous""",0
+"""vessel""",0.15000000000000002,"""dermis""",0
+"""eccrine (sweat) gland""",0.15000000000000002,"""dermis""",0
+"""eccrine (sweat) glands""",0.15000000000000002,"""dermis""",0
+"""nerve""",0.15000000000000002,"""subcutaneous""",0
+"""nerve""",0.15000000000000002,"""dermis""",0
+"""external anal sphincter""",0.15000000000000002,"""subcutaneous""",0
+"""stratum basale (sb)""",0.15000000000000002,"""epidermis""",0
+"""stratum basale (sb)""",0.15000000000000002,"""skin""",0
+"""stratum spinosum (ss)""",0.15000000000000002,"""epidermis""",0
+"""stratum spinosum (ss)""",0.15000000000000002,"""skin""",0
+"""stratum granulosum (sg)""",0.15000000000000002,"""skin""",0
+"""stratum granulosum (sg)""",0.15000000000000002,"""epidermis""",0
+"""stratum corneum (sc)""",0.15000000000000002,"""epidermis""",0
+"""stratum corneum (sc)""",0.15000000000000002,"""skin""",0
+"""nail plate""",0.15000000000000002,"""epidermis""",0
+"""nail plate""",0.15000000000000002,"""skin""",0
+"""crypt""",0.15000000000000002,"""lymphcyte""",0
+"""crypt""",0.15000000000000002,"""lymphocyte""",0
+"""crypt""",0.15000000000000002,"""epithelium""",0
+"""crypt""",0.15000000000000002,"""mucosa""",0
+"""gut associated lymphoid tissue (galt) /lamina propria""",0.15000000000000002,"""submucosa""",0
+"""gut associated lymphoid tissue (galt) /lamina propria""",0.15000000000000002,"""mucosa""",0
+"""gut associated lymphoid tissue (galt)/ lamina propria""",0.15000000000000002,"""mucosa""",0
+"""gut associated lymphoid tissue (galt)/ lamina propria""",0.15000000000000002,"""submucosa""",0
+"""gut associated lymphoid tissue (galt)/isolated lymphoid follicles (ilf)""",0.15000000000000002,"""mucosa""",0
+"""gut associated lymphoid tissue (galt)/isolated lymphoid follicles (ilf)""",0.15000000000000002,"""submucosa""",0
+"""gut associated lymphoid tissue (galt)/lamina propria""",0.15000000000000002,"""mucosa""",0
+"""gut associated lymphoid tissue (galt)/lamina propria""",0.15000000000000002,"""submucosa""",0
+"""anal gland""",0.15000000000000002,"""submucosa""",0
+"""intermediate layer""",0.15000000000000002,"""submucosa""",0
+"""submucosal plexus of henle""",0.15000000000000002,"""submucosa""",0
+"""submucosal plexus of meissner""",0.15000000000000002,"""submucosa""",0
+"""myenteric plexus of auerbach""",0.15000000000000002,"""muscularis prorpia""",0
+"""myenteric plexus of auerbach""",0.15000000000000002,"""muscularis propria""",0
+"""circular muscle layer""",0.15000000000000002,"""muscularis prorpia""",0
+"""circular muscle layer""",0.15000000000000002,"""muscularis propria""",0
+"""longitudinal muscle layer""",0.15000000000000002,"""muscularis prorpia""",0
+"""longitudinal muscle layer""",0.15000000000000002,"""muscularis propria""",0
